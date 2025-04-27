@@ -3,9 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-data/
-models/
+data/external/
+data/iterim/
+data/outliers/
+data/processed/
+data/raw/rare_species.zip
 
+
+models/cnn_baseline.h5
+models/cnn_baseline.weights.h5
+models/resnet50_baseline.h5
+models/resnet50_baseline.weights.h5
 # C extensions
 *.so
 
