@@ -4,10 +4,8 @@ __pycache__/
 *$py.class
 
 data/external/
-data/iterim/
-data/outliers/
 data/processed/
-data/raw/rare_species.zip
+data/raw/
 
 
 models/cnn_baseline.h5
